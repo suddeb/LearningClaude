@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that parses an AWS S3 bucket name from an S3 URI string in the format 's3://bucket-name/key/path'. The function should return just the bucket name."
+  },
+  {
+    "task": "Create a JSON object that represents an AWS IAM policy allowing a principal to perform GetObject and PutObject actions on a specific S3 bucket ARN 'arn:aws:s3:::my-bucket/*'."
+  },
+  {
+    "task": "Write a regular expression that validates an AWS Lambda function name. Lambda function names must be 1-64 characters long and can only contain letters, numbers, hyphens, and underscores."
+  }
+]
